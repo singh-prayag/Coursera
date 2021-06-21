@@ -36,6 +36,7 @@ body {
     margin: 0;
     left: 8px;
     bottom: 8px;
+    font-weight: bold;
 }
 .title2{
     width:100px;
@@ -49,6 +50,7 @@ body {
     margin: 0;
     left:8px;
     bottom: 8px;
+    font-weight: bold;
     }
 .title3{
     width:100px;
@@ -61,6 +63,7 @@ body {
     margin: 0;
     left:8px;
     bottom: 8px;
+    font-weight: bold;
     }
 .content{
     display:inline-block;
