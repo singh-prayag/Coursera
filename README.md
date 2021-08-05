@@ -1,5 +1,5 @@
-This is the second assignment that I have submitted in my Web Development course on Coursera. (Html, CSS And JavaScript For Developers)
+This is the second assignment that I have submitted in my Web Development course on Coursera. (Html, CSS And JavaScript For Web Developers)
 
-You can access it at:https://singh-prayag.github.io/coursera-assignment2/
+You can access it at : https://singh-prayag.github.io/coursera-assignment2/
 
 
